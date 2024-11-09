@@ -4,14 +4,14 @@
  import{getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/10.11.1/firebase-firestore.js"
  
  const firebaseConfig = {
-    apiKey: "AIzaSyCdAHdrcYcetJLPXuV_207G_kUll11GTx8",
-    authDomain: "java-vapor-db.firebaseapp.com",
-    projectId: "java-vapor-db",
-    storageBucket: "java-vapor-db.firebasestorage.app",
-    messagingSenderId: "878695152263",
-    appId: "1:878695152263:web:36f1581c938a781f04d622",
-    measurementId: "G-CRYYT70TQM"
- //WARNING DUMMY API / DUMMY EMAIL (API & EMAIL DIGUNAKAN UNTUK PENGUJIAN)
+    apiKey: 
+    authDomain: 
+    projectId: 
+    storageBucket: 
+    messagingSenderId: 
+    appId: 
+    measurementId: 
+ //WARNING DUMMY API / DUMMY EMAIL / USE YOUR OWN FIREBASE AUTHENTICATION WEB APP API (API & EMAIL DIGUNAKAN UNTUK PENGUJIAN)
  
  };
 
