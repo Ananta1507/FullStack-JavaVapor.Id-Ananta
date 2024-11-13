@@ -4,13 +4,13 @@
  import{getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/10.11.1/firebase-firestore.js"
  
  const firebaseConfig = {
-   apiKey: "AIzaSyASC6_xr-0gYbNKH7TUsYX2zlHqQrA79tI",
-  authDomain: "javavapor-project-ananta.firebaseapp.com",
-  projectId: "javavapor-project-ananta",
-  storageBucket: "javavapor-project-ananta.firebasestorage.app",
-  messagingSenderId: "564352955636",
-  appId: "1:564352955636:web:e65148139365b120eb9aa1",
-  measurementId: "G-JL9LYG53EZ"
+ apiKey: "AIzaSyCOyJHBFfCCvQl5YEpI378GssnZokRWv2s",
+  authDomain: "databasevapor.firebaseapp.com",
+  projectId: "databasevapor",
+  storageBucket: "databasevapor.firebasestorage.app",
+  messagingSenderId: "783271081213",
+  appId: "1:783271081213:web:acc1657844700587adfa94",
+  measurementId: "G-GBTQTSF45X"
  //WARNING DUMMY API / DUMMY EMAIL / USE YOUR OWN FIREBASE AUTHENTICATION WEB APP API (API & EMAIL DIGUNAKAN UNTUK PENGUJIAN)
  
  };
